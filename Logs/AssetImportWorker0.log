@@ -803,3 +803,153 @@ System memory in use after: 199.0 MB.
 Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3160.
 Total: 1.869884 ms (FindLiveObjects: 0.201245 ms CreateObjectMapping: 0.113879 ms MarkObjects: 1.514096 ms  DeleteObjects: 0.039626 ms)
 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002347 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.955 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2662 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 199.0 MB.
+System memory in use after: 199.2 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3163.
+Total: 2.087000 ms (FindLiveObjects: 0.246007 ms CreateObjectMapping: 0.118142 ms MarkObjects: 1.674707 ms  DeleteObjects: 0.047422 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 247.195572 seconds.
+  path: Assets/Scripts/DestroyOffScreen.cs
+  artifactKey: Guid(04a5957dc811f4398b694ae8d4fcdf6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/DestroyOffScreen.cs using Guid(04a5957dc811f4398b694ae8d4fcdf6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0eeae5000421b11685bda21d552ea54d') in 0.011791 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001400 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.103 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.45 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2663 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 199.3 MB.
+System memory in use after: 199.5 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3167.
+Total: 1.831290 ms (FindLiveObjects: 0.222615 ms CreateObjectMapping: 0.112443 ms MarkObjects: 1.441980 ms  DeleteObjects: 0.053451 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 184.614002 seconds.
+  path: Assets/Scripts/DestroyOutOfBounds.cs
+  artifactKey: Guid(04a5957dc811f4398b694ae8d4fcdf6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/DestroyOutOfBounds.cs using Guid(04a5957dc811f4398b694ae8d4fcdf6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9da5cb54af04cd6afccd03cf44790231') in 0.035872 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002244 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.987 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.48 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2663 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 199.4 MB.
+System memory in use after: 199.6 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3170.
+Total: 1.866303 ms (FindLiveObjects: 0.230756 ms CreateObjectMapping: 0.104097 ms MarkObjects: 1.476929 ms  DeleteObjects: 0.053734 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002293 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.989 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.48 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2663 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 199.6 MB.
+System memory in use after: 199.8 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3173.
+Total: 1.963737 ms (FindLiveObjects: 0.217937 ms CreateObjectMapping: 0.111322 ms MarkObjects: 1.585689 ms  DeleteObjects: 0.047929 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 158.020071 seconds.
+  path: Assets/Scripts/DestroyOutOfBounds.cs
+  artifactKey: Guid(04a5957dc811f4398b694ae8d4fcdf6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/DestroyOutOfBounds.cs using Guid(04a5957dc811f4398b694ae8d4fcdf6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98f05c366d2921c906e4469368550610') in 0.012177 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002477 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.916 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2663 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 199.8 MB.
+System memory in use after: 200.0 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3176.
+Total: 1.713484 ms (FindLiveObjects: 0.198462 ms CreateObjectMapping: 0.101311 ms MarkObjects: 1.375323 ms  DeleteObjects: 0.037616 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 108.799989 seconds.
+  path: Assets/Scripts/DestroyOutOfBounds.cs
+  artifactKey: Guid(04a5957dc811f4398b694ae8d4fcdf6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/DestroyOutOfBounds.cs using Guid(04a5957dc811f4398b694ae8d4fcdf6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50ec42b235fc2865c827c6c493c997a7') in 0.006080 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001748 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.950 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.45 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2663 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 200.0 MB.
+System memory in use after: 200.2 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3179.
+Total: 2.581060 ms (FindLiveObjects: 0.360554 ms CreateObjectMapping: 0.231379 ms MarkObjects: 1.951852 ms  DeleteObjects: 0.036600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 27.839674 seconds.
+  path: Assets/Scripts/PlayerController.cs
+  artifactKey: Guid(a18bab4259e7b4af9a2aca85b82fe430) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PlayerController.cs using Guid(a18bab4259e7b4af9a2aca85b82fe430) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0be81c15e284dbae917454325b39b0cf') in 0.006074 seconds 
