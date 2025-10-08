@@ -12,6 +12,9 @@ GameObject:
   - component: {fileID: 1360034472088679737}
   - component: {fileID: 1360034472089733035}
   - component: {fileID: 1360034473615017191}
+  - component: {fileID: -5013245923133164093}
+  - component: {fileID: 4013437081135012381}
+  - component: {fileID: 5770984808686870257}
   m_Layer: 0
   m_Name: Steak
   m_TagString: Untagged
@@ -96,3 +99,44 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 10
+--- !u!54 &-5013245923133164093
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1360034472087776743}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
+--- !u!65 &4013437081135012381
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1360034472087776743}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.52762544, y: 0.08559368, z: 0.80669403}
+  m_Center: {x: 0.030113399, y: 0.04279684, z: -0.072591305}
+--- !u!114 &5770984808686870257
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1360034472087776743}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04a5957dc811f4398b694ae8d4fcdf6d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

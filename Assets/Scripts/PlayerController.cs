@@ -19,13 +19,13 @@ public class PlayerController : MonoBehaviour
     {
 
 
-      if (transform.position.x < -15)
+      if (transform.position.x < -20)
       {
-        transform.position = new Vector3(-15, transform.position.y, transform.position.z);
+        transform.position = new Vector3(-20, transform.position.y, transform.position.z);
       }
-        if (transform.position.x > 15)
+        if (transform.position.x > 20)
       {
-        transform.position = new Vector3(15, transform.position.y, transform.position.z);
+        transform.position = new Vector3(20, transform.position.y, transform.position.z);
       }
 
       if (Input.GetKeyDown(KeyCode.Space))
