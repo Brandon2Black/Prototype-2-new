@@ -223,3 +223,89 @@ System memory in use after: 194.1 MB.
 Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3148.
 Total: 2.034723 ms (FindLiveObjects: 0.224794 ms CreateObjectMapping: 0.108922 ms MarkObjects: 1.652774 ms  DeleteObjects: 0.047599 ms)
 
+========================================================================
+Received Import Request.
+  Time since last request: 113.813904 seconds.
+  path: Assets/Prefabs/Farm/Animal_Chick.prefab
+  artifactKey: Guid(c7ca0992ba00761469f731111e56b107) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Farm/Animal_Chick.prefab using Guid(c7ca0992ba00761469f731111e56b107) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ec2a62557d0be6a6e2d9189dd6a8182') in 0.062753 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.950515 seconds.
+  path: Assets/Prefabs/Farm/Animal_Chick.prefab
+  artifactKey: Guid(c7ca0992ba00761469f731111e56b107) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Farm/Animal_Chick.prefab using Guid(c7ca0992ba00761469f731111e56b107) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0d5d3ba20d53606ed31aea016ac70fc') in 0.014649 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.244831 seconds.
+  path: Assets/Prefabs/Farm/Animal_Chick.prefab
+  artifactKey: Guid(c7ca0992ba00761469f731111e56b107) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Farm/Animal_Chick.prefab using Guid(c7ca0992ba00761469f731111e56b107) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e23366d5c98e6629d168fd07e078ccc9') in 0.011785 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.612985 seconds.
+  path: Assets/Prefabs/Farm/Animal_Chick.prefab
+  artifactKey: Guid(c7ca0992ba00761469f731111e56b107) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Farm/Animal_Chick.prefab using Guid(c7ca0992ba00761469f731111e56b107) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e00b0ea101a3ac03c84267fc0cc0bfa4') in 0.011676 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.833150 seconds.
+  path: Assets/Prefabs/Farm/Animal_Chick.prefab
+  artifactKey: Guid(c7ca0992ba00761469f731111e56b107) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Farm/Animal_Chick.prefab using Guid(c7ca0992ba00761469f731111e56b107) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d4a530ee5250161f1e6e3cfba3005fd') in 0.013298 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.202445 seconds.
+  path: Assets/Prefabs/Farm/Animal_Chick.prefab
+  artifactKey: Guid(c7ca0992ba00761469f731111e56b107) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Farm/Animal_Chick.prefab using Guid(c7ca0992ba00761469f731111e56b107) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e776a81ab536c92f64128390cb66ec38') in 0.012503 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.277628 seconds.
+  path: Assets/Prefabs/Farm/Animal_Chick.prefab
+  artifactKey: Guid(c7ca0992ba00761469f731111e56b107) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Farm/Animal_Chick.prefab using Guid(c7ca0992ba00761469f731111e56b107) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b64c8849ad1886244c90f40557be3e60') in 0.011561 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.804227 seconds.
+  path: Assets/Prefabs/Farm/Animal_Chick.prefab
+  artifactKey: Guid(c7ca0992ba00761469f731111e56b107) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Farm/Animal_Chick.prefab using Guid(c7ca0992ba00761469f731111e56b107) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5adc62f8f939261deebc43c05086e62') in 0.011933 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.606399 seconds.
+  path: Assets/Prefabs/Farm/Animal_Chick.prefab
+  artifactKey: Guid(c7ca0992ba00761469f731111e56b107) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Farm/Animal_Chick.prefab using Guid(c7ca0992ba00761469f731111e56b107) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b5d9a49a289ccddee2a415158fd1db0') in 0.012066 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.003172 seconds.
+  path: Assets/Prefabs/Farm/Animal_Chick.prefab
+  artifactKey: Guid(c7ca0992ba00761469f731111e56b107) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Farm/Animal_Chick.prefab using Guid(c7ca0992ba00761469f731111e56b107) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd203a437c2fe7071e76f91c318b8318e') in 0.012142 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.249430 seconds.
+  path: Assets/Prefabs/Farm/Animal_Chick.prefab
+  artifactKey: Guid(c7ca0992ba00761469f731111e56b107) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Farm/Animal_Chick.prefab using Guid(c7ca0992ba00761469f731111e56b107) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9749c322780679b7dedbc21beabc450') in 0.013023 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001436 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.927 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2665 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 194.5 MB.
+System memory in use after: 194.7 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3152.
+Total: 1.767662 ms (FindLiveObjects: 0.196931 ms CreateObjectMapping: 0.102259 ms MarkObjects: 1.407186 ms  DeleteObjects: 0.060491 ms)
+
