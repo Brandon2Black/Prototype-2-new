@@ -94,10 +94,9 @@ GameObject:
   m_Component:
   - component: {fileID: 433694}
   - component: {fileID: 9553238}
-  - component: {fileID: -4751668755663667636}
-  - component: {fileID: 795531522855999727}
-  - component: {fileID: 8126134762907188305}
-  - component: {fileID: -1021916394221900232}
+  - component: {fileID: 5153478989146564970}
+  - component: {fileID: 8331023072522674706}
+  - component: {fileID: 4350879373929212406}
   m_Layer: 0
   m_Name: Animal_Stag_01
   m_TagString: Untagged
@@ -148,7 +147,7 @@ Animator:
   m_HasTransformHierarchy: 0
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
---- !u!114 &-4751668755663667636
+--- !u!114 &5153478989146564970
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -160,21 +159,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d5bc555f5edf5406991c775a7412d261, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 2
---- !u!65 &795531522855999727
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 114920}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 1
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Size: {x: 0.14703564, y: 0.36987302, z: 0.37074116}
-  m_Center: {x: -0.013888674, y: 0.16482198, z: 0.042870913}
---- !u!114 &8126134762907188305
+  speed: 1
+--- !u!114 &8331023072522674706
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -186,18 +172,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 30c821884462a42fcbd7ac6e25ed4f92, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!114 &-1021916394221900232
-MonoBehaviour:
+--- !u!65 &4350879373929212406
+BoxCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 114920}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
   m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 04a5957dc811f4398b694ae8d4fcdf6d, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  serializedVersion: 2
+  m_Size: {x: 0.122591704, y: 0.37322912, z: 0.3530991}
+  m_Center: {x: 0.011680695, y: 0.19879429, z: 0.0715162}
 --- !u!1 &137112
 GameObject:
   m_ObjectHideFlags: 0
