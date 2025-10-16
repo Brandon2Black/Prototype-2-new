@@ -5,7 +5,7 @@ using UnityEngine;
 public class DestroyOffScreen : MonoBehaviour
 {
 
-    private float topBound = 30;
+    private float topBound = -40;
     private float lowerBound = -10;
     // Start is called before the first frame update
     void Start()
@@ -16,7 +16,7 @@ public class DestroyOffScreen : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (transform.position.z > topBound)
+        if (transform.position.x < topBound)
         {
             Destroy(gameObject);
         } 
