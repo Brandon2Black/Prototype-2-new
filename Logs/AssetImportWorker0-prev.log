@@ -12,473 +12,179 @@ AssetImportWorker0
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-59890
+49670
 Successfully changed project path to: /Users/game12/Desktop/Create With Code/Prototype 2
-Could not lock editor preferences. Preferences updates for this instance of Unity will not be saved./Users/game12/Desktop/Create With Code/Prototype 2
+/Users/game12/Desktop/Create With Code/Prototype 2
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 65.69 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 65.74 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.1.6f1 (c0fade0cc7e9)
 [Subsystems] Discovering subsystems at path /Applications/Unity/Unity.app/Contents/Resources/UnitySubsystems
 [Subsystems] Discovering subsystems at path /Users/game12/Desktop/Create With Code/Prototype 2/Assets
 GfxDevice: creating device client; threaded=0; jobified=0
-2025-10-15 12:22:50.155 Unity[73165:16624252] iMac preferred device: AMD Radeon Pro 5300 (high power)
-2025-10-15 12:22:50.156 Unity[73165:16624252] Metal devices available: 1
-2025-10-15 12:22:50.156 Unity[73165:16624252] 0: AMD Radeon Pro 5300 (high power)
-2025-10-15 12:22:50.156 Unity[73165:16624252] Using device AMD Radeon Pro 5300 (high power)
+2025-10-16 12:13:45.442 Unity[1792:42549] iMac preferred device: AMD Radeon Pro 5300 (high power)
+2025-10-16 12:13:45.442 Unity[1792:42549] Metal devices available: 1
+2025-10-16 12:13:45.443 Unity[1792:42549] 0: AMD Radeon Pro 5300 (high power)
+2025-10-16 12:13:45.443 Unity[1792:42549] Using device AMD Radeon Pro 5300 (high power)
 Initializing Metal device caps: AMD Radeon Pro 5300
 Initialize mono
 Mono path[0] = '/Applications/Unity/Unity.app/Contents/Managed'
 Mono path[1] = '/Applications/Unity/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = '/Applications/Unity/Unity.app/Contents/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56165
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56792
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: /Applications/Unity/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
-Registered in 0.001821 seconds.
+Registered in 0.003350 seconds.
 Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 80.02 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 66.81 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  2.456 seconds
+- Completed reload, in  2.234 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.004829 seconds.
+Registered in 0.004597 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.003 seconds
+- Completed reload, in  1.030 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Launching external process: /Applications/Unity/Unity.app/Contents/Tools/UnityShaderCompiler
-Launched and connected shader compiler UnityShaderCompiler after 0.02 seconds
-Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Launched and connected shader compiler UnityShaderCompiler after 0.47 seconds
+Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 2675 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 166.0 MB.
-System memory in use after: 166.2 MB.
+System memory in use before: 166.2 MB.
+System memory in use after: 166.3 MB.
 
 Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 3128.
-Total: 1.843842 ms (FindLiveObjects: 0.205133 ms CreateObjectMapping: 0.108479 ms MarkObjects: 1.459001 ms  DeleteObjects: 0.070560 ms)
+Total: 1.843745 ms (FindLiveObjects: 0.197237 ms CreateObjectMapping: 0.103994 ms MarkObjects: 1.473166 ms  DeleteObjects: 0.068614 ms)
 
 ========================================================================
 Received Import Request.
-  path: Assets/Challenge 2/Scripts/SpawnManagerX.cs
-  artifactKey: Guid(745c25f6adc3b4804961d8389a1a74fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Challenge 2/Scripts/SpawnManagerX.cs using Guid(745c25f6adc3b4804961d8389a1a74fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae63240f30437ba51966161ec8213e08') in 0.335556 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001921 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 0.45 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.915 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2670 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 170.7 MB.
-System memory in use after: 170.9 MB.
-
-Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3131.
-Total: 2.348140 ms (FindLiveObjects: 0.318049 ms CreateObjectMapping: 0.121756 ms MarkObjects: 1.861669 ms  DeleteObjects: 0.045961 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 146.538446 seconds.
-  path: Assets/Challenge 2/Prefabs/Ball 1.prefab
-  artifactKey: Guid(1d143480adadf43389395930eee2b5cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Challenge 2/Prefabs/Ball 1.prefab using Guid(1d143480adadf43389395930eee2b5cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41e6922ed13096c7cc75252bfb09eabe') in 0.888106 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000224 seconds.
-  path: Assets/Challenge 2/Prefabs/Dog.prefab
-  artifactKey: Guid(3e5fe95e580114a5f8f8348678e77463) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Challenge 2/Prefabs/Dog.prefab using Guid(3e5fe95e580114a5f8f8348678e77463) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd236977f09c408585ab0f3e99d7ef30c') in 0.082754 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000194 seconds.
-  path: Assets/Challenge 2/Prefabs/Ball 3.prefab
-  artifactKey: Guid(fc41e6839a5494e0cbaea5f0081c271d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Challenge 2/Prefabs/Ball 3.prefab using Guid(fc41e6839a5494e0cbaea5f0081c271d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b28d846b135ea5614bc0d8ecd7a2c9ee') in 0.010164 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000126 seconds.
-  path: Assets/Challenge 2/Prefabs/Ball 2.prefab
-  artifactKey: Guid(a325bcb65fd94414191d0ddc2514e2dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Challenge 2/Prefabs/Ball 2.prefab using Guid(a325bcb65fd94414191d0ddc2514e2dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8db52ae8d583b420eac216fb0f58d277') in 0.009228 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.006735 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 0.51 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.943 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.46 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2670 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 193.2 MB.
-System memory in use after: 193.4 MB.
-
-Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3143.
-Total: 1.806470 ms (FindLiveObjects: 0.195372 ms CreateObjectMapping: 0.089801 ms MarkObjects: 1.471998 ms  DeleteObjects: 0.048533 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 170.421784 seconds.
-  path: Assets/Challenge 2/Scripts
-  artifactKey: Guid(5cd144082593e4cfab84c2ab71c641aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Challenge 2/Scripts using Guid(5cd144082593e4cfab84c2ab71c641aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b3d9312aaa4cdc8662ec80dd6d9b73d') in 0.004835 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 1.542745 seconds.
-  path: Assets/Challenge 2/Scripts/PlayerControllerX.cs
-  artifactKey: Guid(5d96ad106bd784549a370bbfd1f8b697) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Challenge 2/Scripts/PlayerControllerX.cs using Guid(5d96ad106bd784549a370bbfd1f8b697) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17bfe89ebefd4b6ea430229d35688634') in 0.007732 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 13.958992 seconds.
-  path: Assets/Challenge 2/Scripts/MoveForwardX.cs
-  artifactKey: Guid(aba24ec01e08d4e8596c800afced39e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Challenge 2/Scripts/MoveForwardX.cs using Guid(aba24ec01e08d4e8596c800afced39e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4961dd9cd658e6d870d85630f1a71c99') in 0.004383 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 5.962150 seconds.
-  path: Assets/Challenge 2/Scripts/DetectCollisionsX.cs
-  artifactKey: Guid(22f880a64e2c84b0a8be42be264f9bad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Challenge 2/Scripts/DetectCollisionsX.cs using Guid(22f880a64e2c84b0a8be42be264f9bad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ebfe9d8701a9e1bf0073fdbe5e7db334') in 0.005329 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 9.213206 seconds.
-  path: Assets/Challenge 2/Scripts/DestroyOutOfBoundsX.cs
-  artifactKey: Guid(dd56477307ae34a53ab47afc77a08392) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Challenge 2/Scripts/DestroyOutOfBoundsX.cs using Guid(dd56477307ae34a53ab47afc77a08392) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b24c884442d523d1c3aac11d7e92c8e') in 0.005993 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 35.596527 seconds.
-  path: Assets/Challenge 2/Scripts/SpawnManagerX.cs
-  artifactKey: Guid(745c25f6adc3b4804961d8389a1a74fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Challenge 2/Scripts/SpawnManagerX.cs using Guid(745c25f6adc3b4804961d8389a1a74fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2eef0b311844d4c4ebb341f7181402ef') in 0.004015 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.004871 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.149 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.45 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2670 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 193.4 MB.
-System memory in use after: 193.6 MB.
-
-Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3146.
-Total: 1.942477 ms (FindLiveObjects: 0.267756 ms CreateObjectMapping: 0.109234 ms MarkObjects: 1.497020 ms  DeleteObjects: 0.067410 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 29.080920 seconds.
-  path: Assets/Challenge 2/Prefabs/Dog.prefab
-  artifactKey: Guid(3e5fe95e580114a5f8f8348678e77463) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Challenge 2/Prefabs/Dog.prefab using Guid(3e5fe95e580114a5f8f8348678e77463) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '784d95ecad928543e95760e04cca685d') in 0.116950 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 2.455175 seconds.
-  path: Assets/Challenge 2/Prefabs/Dog.prefab
-  artifactKey: Guid(3e5fe95e580114a5f8f8348678e77463) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Challenge 2/Prefabs/Dog.prefab using Guid(3e5fe95e580114a5f8f8348678e77463) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df1d6e1df45d08d787e60c9185ca23b2') in 0.038129 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 2.384313 seconds.
-  path: Assets/Challenge 2/Prefabs/Dog.prefab
-  artifactKey: Guid(3e5fe95e580114a5f8f8348678e77463) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Challenge 2/Prefabs/Dog.prefab using Guid(3e5fe95e580114a5f8f8348678e77463) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b666325dfede0e9ed96bdaef464d8a6e') in 0.037806 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 2.983087 seconds.
-  path: Assets/Challenge 2/Prefabs/Dog.prefab
-  artifactKey: Guid(3e5fe95e580114a5f8f8348678e77463) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Challenge 2/Prefabs/Dog.prefab using Guid(3e5fe95e580114a5f8f8348678e77463) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4eb0cdc4ae9aa97cdb8d4d86b0a4b2bb') in 0.036397 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 7.059501 seconds.
-  path: Assets/Challenge 2/Prefabs/Dog.prefab
-  artifactKey: Guid(3e5fe95e580114a5f8f8348678e77463) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Challenge 2/Prefabs/Dog.prefab using Guid(3e5fe95e580114a5f8f8348678e77463) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c49132fa863d19960992dde8156c7d33') in 0.036747 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 5.639425 seconds.
-  path: Assets/Challenge 2/Prefabs/Dog.prefab
-  artifactKey: Guid(3e5fe95e580114a5f8f8348678e77463) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Challenge 2/Prefabs/Dog.prefab using Guid(3e5fe95e580114a5f8f8348678e77463) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b77dedcdba4e22adf11c65c41f00fff') in 0.036693 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 2.183841 seconds.
-  path: Assets/Challenge 2/Prefabs/Dog.prefab
-  artifactKey: Guid(3e5fe95e580114a5f8f8348678e77463) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Challenge 2/Prefabs/Dog.prefab using Guid(3e5fe95e580114a5f8f8348678e77463) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82b43d1609809e7b5f7274f837fd07f1') in 0.035071 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 15.128880 seconds.
-  path: Assets/Challenge 2/Prefabs/Dog.prefab
-  artifactKey: Guid(3e5fe95e580114a5f8f8348678e77463) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Challenge 2/Prefabs/Dog.prefab using Guid(3e5fe95e580114a5f8f8348678e77463) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6da52db8cb406af1c16b417369761fdc') in 0.035595 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 2.571097 seconds.
-  path: Assets/Challenge 2/Prefabs/Dog.prefab
-  artifactKey: Guid(3e5fe95e580114a5f8f8348678e77463) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Challenge 2/Prefabs/Dog.prefab using Guid(3e5fe95e580114a5f8f8348678e77463) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e66fb00dad590d190d75570e8f71824b') in 0.035471 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 2.806071 seconds.
-  path: Assets/Challenge 2/Prefabs/Dog.prefab
-  artifactKey: Guid(3e5fe95e580114a5f8f8348678e77463) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Challenge 2/Prefabs/Dog.prefab using Guid(3e5fe95e580114a5f8f8348678e77463) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd83b138ca5bb83b5127e99d260c39520') in 0.037011 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 2.187208 seconds.
-  path: Assets/Challenge 2/Prefabs/Dog.prefab
-  artifactKey: Guid(3e5fe95e580114a5f8f8348678e77463) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Challenge 2/Prefabs/Dog.prefab using Guid(3e5fe95e580114a5f8f8348678e77463) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '715e030cdefad1af131962c8817f4957') in 0.034554 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 6.077218 seconds.
-  path: Assets/Challenge 2/Prefabs/Dog.prefab
-  artifactKey: Guid(3e5fe95e580114a5f8f8348678e77463) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Challenge 2/Prefabs/Dog.prefab using Guid(3e5fe95e580114a5f8f8348678e77463) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3fc6ae61445ff5649c5e8af001eaee92') in 0.036742 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 3.016616 seconds.
-  path: Assets/Challenge 2/Prefabs/Dog.prefab
-  artifactKey: Guid(3e5fe95e580114a5f8f8348678e77463) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Challenge 2/Prefabs/Dog.prefab using Guid(3e5fe95e580114a5f8f8348678e77463) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3d8ffcf69b51be3f7549074f608d615') in 0.035927 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 12.736407 seconds.
-  path: Assets/Challenge 2/Prefabs/Dog.prefab
-  artifactKey: Guid(3e5fe95e580114a5f8f8348678e77463) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Challenge 2/Prefabs/Dog.prefab using Guid(3e5fe95e580114a5f8f8348678e77463) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e106fbd6715d7508bf2cbaa81c67fb1a') in 0.035545 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 2.187680 seconds.
-  path: Assets/Challenge 2/Prefabs/Dog.prefab
-  artifactKey: Guid(3e5fe95e580114a5f8f8348678e77463) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Challenge 2/Prefabs/Dog.prefab using Guid(3e5fe95e580114a5f8f8348678e77463) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea8095a2ed6669f19b7858981abce936') in 0.036295 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 2.778151 seconds.
-  path: Assets/Challenge 2/Prefabs/Dog.prefab
-  artifactKey: Guid(3e5fe95e580114a5f8f8348678e77463) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Challenge 2/Prefabs/Dog.prefab using Guid(3e5fe95e580114a5f8f8348678e77463) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10b7ba1ca759434538912a211aa7f578') in 0.036634 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 5.232852 seconds.
-  path: Assets/Challenge 2/Prefabs/Dog.prefab
-  artifactKey: Guid(3e5fe95e580114a5f8f8348678e77463) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Challenge 2/Prefabs/Dog.prefab using Guid(3e5fe95e580114a5f8f8348678e77463) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6adca1b88b1de8d666e137b327c2674') in 0.036204 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 1.974321 seconds.
-  path: Assets/Challenge 2/Prefabs/Dog.prefab
-  artifactKey: Guid(3e5fe95e580114a5f8f8348678e77463) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Challenge 2/Prefabs/Dog.prefab using Guid(3e5fe95e580114a5f8f8348678e77463) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '837f96d5b1a30681c10079a305d6b9b0') in 0.036021 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002247 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.915 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2670 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 194.9 MB.
-System memory in use after: 195.1 MB.
-
-Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3150.
-Total: 2.102435 ms (FindLiveObjects: 0.413832 ms CreateObjectMapping: 0.193226 ms MarkObjects: 1.447105 ms  DeleteObjects: 0.047422 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 227.306355 seconds.
-  path: Assets/Challenge 2/Scripts/DestroyOutOfBoundsX.cs
-  artifactKey: Guid(dd56477307ae34a53ab47afc77a08392) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Challenge 2/Scripts/DestroyOutOfBoundsX.cs using Guid(dd56477307ae34a53ab47afc77a08392) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f538fd8e3da5d0e2bf7a06dff8b2107') in 0.054991 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002373 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 0.45 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.099 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2670 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 195.1 MB.
-System memory in use after: 195.3 MB.
-
-Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3153.
-Total: 1.985647 ms (FindLiveObjects: 0.240054 ms CreateObjectMapping: 0.101383 ms MarkObjects: 1.563654 ms  DeleteObjects: 0.079782 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.005415 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.984 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2670 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 195.4 MB.
-System memory in use after: 195.6 MB.
-
-Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3156.
-Total: 1.670907 ms (FindLiveObjects: 0.187370 ms CreateObjectMapping: 0.093356 ms MarkObjects: 1.344859 ms  DeleteObjects: 0.044729 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001734 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.941 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2670 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 195.6 MB.
-System memory in use after: 195.8 MB.
-
-Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3159.
-Total: 1.717736 ms (FindLiveObjects: 0.192893 ms CreateObjectMapping: 0.103147 ms MarkObjects: 1.376388 ms  DeleteObjects: 0.044627 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 250.937649 seconds.
   path: Assets/Scripts/DestroyOffScreen.cs
   artifactKey: Guid(04a5957dc811f4398b694ae8d4fcdf6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/DestroyOffScreen.cs using Guid(04a5957dc811f4398b694ae8d4fcdf6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1fca2d181a376628946df37aa4a6d69a') in 0.006899 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.004905 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.994 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2670 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 195.8 MB.
-System memory in use after: 196.0 MB.
-
-Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3162.
-Total: 3.110520 ms (FindLiveObjects: 0.355493 ms CreateObjectMapping: 0.155845 ms MarkObjects: 2.529190 ms  DeleteObjects: 0.068846 ms)
-
+Start importing Assets/Scripts/DestroyOffScreen.cs using Guid(04a5957dc811f4398b694ae8d4fcdf6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6387d66e35bce07e6a6196a9bdd88480') in 0.291114 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 23.836024 seconds.
-  path: Assets/Challenge 2/Scripts/DestroyOutOfBoundsX.cs
-  artifactKey: Guid(dd56477307ae34a53ab47afc77a08392) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Challenge 2/Scripts/DestroyOutOfBoundsX.cs using Guid(dd56477307ae34a53ab47afc77a08392) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5bfbbb869099482cb8193e4f01b315f') in 0.008166 seconds 
+  Time since last request: 8.553835 seconds.
+  path: Assets/Challenge 2/Prefabs/Dog.prefab
+  artifactKey: Guid(3e5fe95e580114a5f8f8348678e77463) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Challenge 2/Prefabs/Dog.prefab using Guid(3e5fe95e580114a5f8f8348678e77463) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af6f47c5e956c178a343802616522202') in 0.834002 seconds 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.001911 seconds.
+Registered in 0.001929 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.018 seconds
+- Completed reload, in  0.909 seconds
 Platform modules already initialized, skipping
 Refreshing native plugins compatible for Editor in 0.46 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 2670 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 196.0 MB.
-System memory in use after: 196.2 MB.
+System memory in use before: 193.0 MB.
+System memory in use after: 193.2 MB.
 
-Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3165.
-Total: 2.747473 ms (FindLiveObjects: 0.233465 ms CreateObjectMapping: 0.131287 ms MarkObjects: 2.286817 ms  DeleteObjects: 0.094564 ms)
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3139.
+Total: 1.744162 ms (FindLiveObjects: 0.190318 ms CreateObjectMapping: 0.084900 ms MarkObjects: 1.424511 ms  DeleteObjects: 0.043791 ms)
 
+========================================================================
+Received Import Request.
+  Time since last request: 26.844146 seconds.
+  path: Assets/Challenge 2/Prefabs/Dog.prefab
+  artifactKey: Guid(3e5fe95e580114a5f8f8348678e77463) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Challenge 2/Prefabs/Dog.prefab using Guid(3e5fe95e580114a5f8f8348678e77463) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e3d25871b3964cc4c17220059fc9b95') in 0.102014 seconds 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.001495 seconds.
+Registered in 0.001819 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for OSXStandalone target not found
 Refreshing native plugins compatible for Editor in 0.45 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.917 seconds
+- Completed reload, in  0.937 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.45 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 2670 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 196.2 MB.
-System memory in use after: 196.4 MB.
+System memory in use before: 193.3 MB.
+System memory in use after: 193.5 MB.
 
-Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3168.
-Total: 2.160642 ms (FindLiveObjects: 0.191521 ms CreateObjectMapping: 0.090557 ms MarkObjects: 1.824798 ms  DeleteObjects: 0.053180 ms)
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3143.
+Total: 1.734015 ms (FindLiveObjects: 0.191900 ms CreateObjectMapping: 0.095306 ms MarkObjects: 1.394200 ms  DeleteObjects: 0.051876 ms)
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.001559 seconds.
+Registered in 0.002308 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.949 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2670 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 193.5 MB.
+System memory in use after: 193.7 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3146.
+Total: 2.145624 ms (FindLiveObjects: 0.367801 ms CreateObjectMapping: 0.209676 ms MarkObjects: 1.524097 ms  DeleteObjects: 0.043421 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001597 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for OSXStandalone target not found
 Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.927 seconds
+- Completed reload, in  0.955 seconds
 Platform modules already initialized, skipping
 Refreshing native plugins compatible for Editor in 0.45 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 2670 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 196.4 MB.
-System memory in use after: 196.6 MB.
+System memory in use before: 193.8 MB.
+System memory in use after: 194.0 MB.
 
-Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3171.
-Total: 1.760736 ms (FindLiveObjects: 0.242050 ms CreateObjectMapping: 0.101133 ms MarkObjects: 1.368818 ms  DeleteObjects: 0.047859 ms)
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3149.
+Total: 1.926444 ms (FindLiveObjects: 0.239708 ms CreateObjectMapping: 0.114881 ms MarkObjects: 1.526044 ms  DeleteObjects: 0.045181 ms)
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.001497 seconds.
+Registered in 0.001882 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.926 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.48 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2670 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 194.0 MB.
+System memory in use after: 194.2 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3152.
+Total: 1.864013 ms (FindLiveObjects: 0.190246 ms CreateObjectMapping: 0.155891 ms MarkObjects: 1.471877 ms  DeleteObjects: 0.045302 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001789 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for OSXStandalone target not found
 Refreshing native plugins compatible for Editor in 0.48 ms, found 1 plugins.
@@ -489,30 +195,88 @@ Platform modules already initialized, skipping
 Refreshing native plugins compatible for Editor in 0.45 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 2670 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 196.6 MB.
-System memory in use after: 196.8 MB.
+System memory in use before: 194.2 MB.
+System memory in use after: 194.4 MB.
 
-Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3174.
-Total: 2.232693 ms (FindLiveObjects: 0.300532 ms CreateObjectMapping: 0.143390 ms MarkObjects: 1.739833 ms  DeleteObjects: 0.048096 ms)
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3155.
+Total: 2.161292 ms (FindLiveObjects: 0.285693 ms CreateObjectMapping: 0.235955 ms MarkObjects: 1.592371 ms  DeleteObjects: 0.046466 ms)
 
+========================================================================
+Received Import Request.
+  Time since last request: 991.398787 seconds.
+  path: Assets/Challenge 2/Scripts/DestroyOutOfBoundsX.cs
+  artifactKey: Guid(dd56477307ae34a53ab47afc77a08392) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Challenge 2/Scripts/DestroyOutOfBoundsX.cs using Guid(dd56477307ae34a53ab47afc77a08392) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24ad0396963ea1822c099f2ffcdeb4cd') in 0.009026 seconds 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.005355 seconds.
+Registered in 0.001843 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for OSXStandalone target not found
 Refreshing native plugins compatible for Editor in 0.45 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.955 seconds
+- Completed reload, in  0.926 seconds
 Platform modules already initialized, skipping
 Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 2670 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 196.7 MB.
-System memory in use after: 196.9 MB.
+System memory in use before: 194.4 MB.
+System memory in use after: 194.6 MB.
 
-Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3177.
-Total: 2.248661 ms (FindLiveObjects: 0.264045 ms CreateObjectMapping: 0.150762 ms MarkObjects: 1.777979 ms  DeleteObjects: 0.054972 ms)
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3158.
+Total: 1.788007 ms (FindLiveObjects: 0.192395 ms CreateObjectMapping: 0.093858 ms MarkObjects: 1.456471 ms  DeleteObjects: 0.044577 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001402 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.46 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.912 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.45 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2670 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 194.6 MB.
+System memory in use after: 194.8 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3161.
+Total: 1.659701 ms (FindLiveObjects: 0.193726 ms CreateObjectMapping: 0.100107 ms MarkObjects: 1.320166 ms  DeleteObjects: 0.045108 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 43.615978 seconds.
+  path: Assets/Challenge 2/Prefabs/Dog.prefab
+  artifactKey: Guid(3e5fe95e580114a5f8f8348678e77463) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Challenge 2/Prefabs/Dog.prefab using Guid(3e5fe95e580114a5f8f8348678e77463) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f20388eb52953201ace6f25ca5b2121') in 0.109320 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.888736 seconds.
+  path: Assets/Challenge 2/Prefabs/Dog.prefab
+  artifactKey: Guid(3e5fe95e580114a5f8f8348678e77463) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Challenge 2/Prefabs/Dog.prefab using Guid(3e5fe95e580114a5f8f8348678e77463) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94f319050ca9b4fd0640aadf9166b540') in 0.036718 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005095 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.895 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2670 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 194.9 MB.
+System memory in use after: 195.1 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3165.
+Total: 2.608348 ms (FindLiveObjects: 0.289713 ms CreateObjectMapping: 0.189110 ms MarkObjects: 2.071354 ms  DeleteObjects: 0.057018 ms)
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
